@@ -1,2 +1,5 @@
 # Hello-Blockchain-world-vardhana
-This was my First smart contract
+<br>
+Authored: Harsha Vardhana Rao
+This was my First smart contract for Blockchain
+
